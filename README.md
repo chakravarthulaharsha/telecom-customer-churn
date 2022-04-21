@@ -2,11 +2,13 @@
 Live on Heroku:  </br>
 
 ### Description
-This dash application allows you to predict telco customer churn using machine learning algorithms (SVM, XGBoost). Developed with Python and the all codes published on GitHub. Feel free to review and download the repository. You can:
+This dash application allows you to predict telco customer churn using machine learning algorithms (SVM, XGBoost).
+You can:
 - predict customer churn
 - review data analysis
 
-**Dataset:** https://github.com/IBM/telco-customer-churn-on-icp4d/blob/master/data/Telco-Customer-Churn.csv
+**Dataset:** 
+https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction/data?select=WA_Fn-UseC_-Telco-Customer-Churn.csv
 
 ### Installation and Usage
 1. Install all dependencies listed in requirements.txt - all packages are pip-installable.
